@@ -4,8 +4,11 @@ Windows desktop based game developed using Unreal’s UDK 3.0 engine. Most of th
 3rd person action RPG game. Set in a fantasy world with 3 different levels, the player has to stop the awakenning of an ancient goddess of destruction. Features an inventory with dynamcally added new items through a SQL database, player leveling and gaining experience, fireball and healing skills, mana and health system, Flash UI, including inventory, skills, main and pause menus. Enemy simple AI for patrolling, following and attacking the player. Enemy drop system with drop tables.
 
 Project developers:
+
 Arthur Engelmann Coelho
-Gustavo Franckevicius Guurgel Maranhão
+
+Gustavo Franckevicius Gurgel Maranhão
+
 Rafael Paschoal Braga
 
 Link to a demonstration video: https://www.youtube.com/watch?v=VBtA7GuLrb8
