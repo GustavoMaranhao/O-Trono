@@ -7,3 +7,5 @@ Project developers:
 Arthur Engelmann Coelho
 Gustavo Franckevicius Guurgel Maranhão
 Rafael Paschoal Braga
+
+Link to a demonstration video: https://www.youtube.com/watch?v=VBtA7GuLrb8
