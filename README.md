@@ -1,7 +1,7 @@
 # O-Trono
 Windows desktop based game developed using Unreal’s UDK 3.0 engine. Most of the assets where created using a version of the Maya software and animated using Motionbuilder when necessary. When not developed by the development team, the assets where obtained and allowed to use by other artists close to the team.
 
-The game consists in exploring the fantasy world of Bathangor and fighting to prevent the return of an evil deity and disrupting the peace the kingdoms now enjoy. The player has 3 city maps, 4 wilds based and one dungeon maps to explore and complete certain quests.
+3rd person action RPG game. Set in a fantasy world with 3 different levels, the player has to stop the awakenning of an ancient goddess of destruction. Features an inventory with dynamcally added new items through a SQL database, player leveling and gaining experience, fireball and healing skills, mana and health system, Flash UI, including inventory, skills, main and pause menus. Enemy simple AI for patrolling, following and attacking the player. Enemy drop system with drop tables.
 
 Project developers:
 Arthur Engelmann Coelho
